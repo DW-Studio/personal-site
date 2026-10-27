@@ -1,0 +1,111 @@
+{
+  "projects": [
+    {
+      "when": "2025.11",
+      "name": "SAT Score Calculator",
+      "sub": "把国内「高考志愿填报」那类工具的思路搬到美国高考：答对多少题，能换算成多少分。",
+      "status": "已停",
+      "featured": true,
+      "fields": {
+        "问题": "国内做高考分数、志愿填报的工具一直有人用。SAT 是同一类确定性需求：规则清楚、每年固定时间发生、家长和学生需要把「答对题数」换算成「分数区间」，而在搜索里找这类工具的人一直有。",
+        "判断": "规则明确、需求发生在搜索里、一个人一天能做完。作为第一个出海项目，它的价值不在赚多少钱，而在于验证「想法 → 上线」这条路能不能一次打通。",
+        "做了什么": "用 Trae 一天写完并部署上线。上线后美方修改了分数换算规则，重写了计算逻辑，前端也改了几版。后来接了 Amazon 图书联盟链接，试一条变现路径。",
+        "结果": "Vercel 和 Google Analytics 有访问统计，具体数字没留档；没有留存或回访数据，除了自己测试，也没收到真实用户反馈。",
+        "为什么停": "大型机构把同类工具直接内置进自己的产品，做得更专业，背后有完整的获客和变现链条。一个静态计算器在「准确性」和「信任」上都不占优势，继续做只是重复劳动。"
+      },
+      "repo": "https://github.com/DW-Studio/sat-score-calculator.net",
+      "slug": "sat-score-calculator.net",
+      "private": false
+    },
+    {
+      "when": "2025.12",
+      "name": "Etsy Listing Generator",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/etsy-listing-generator",
+      "slug": "etsy-listing-generator",
+      "private": false
+    },
+    {
+      "when": "2026.04",
+      "name": "Bookmark Vault",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/bookmark-vault",
+      "slug": "bookmark-vault",
+      "private": false
+    },
+    {
+      "when": "2026.05",
+      "name": "Radar Sniper",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/radar-sniper",
+      "slug": "radar-sniper",
+      "private": false
+    },
+    {
+      "when": "2026.05",
+      "name": "Mantle Nexus",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/mantle-nexus",
+      "slug": "mantle-nexus",
+      "private": false
+    },
+    {
+      "when": "2026.07",
+      "name": "DraftMind",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/DraftMind",
+      "slug": "DraftMind",
+      "private": false
+    },
+    {
+      "when": "2026.08",
+      "name": "DevCheck",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/DevCheck",
+      "slug": "DevCheck",
+      "private": false
+    },
+    {
+      "when": "2026.08",
+      "name": "Fitness",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/fitness",
+      "slug": "fitness",
+      "private": false
+    },
+    {
+      "when": "2026.09",
+      "name": "mini-gpt",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/mini-gpt",
+      "slug": "mini-gpt",
+      "private": false
+    },
+    {
+      "when": "2026.09",
+      "name": "SlopLint",
+      "sub": "",
+      "status": "",
+      "fields": {},
+      "repo": "https://github.com/DW-Studio/sloplint",
+      "slug": "sloplint",
+      "private": false
+    }
+  ]
+}
